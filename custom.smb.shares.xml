@@ -21,7 +21,7 @@ Features:
   <Overview>
 Create and manage custom Samba/SMB shares with advanced configuration options not available in Unraid's built-in share system.
   </Overview>
-  <Support>https://github.com/cslemieux/unraid-custom-smb-shares/issues</Support>
+  <Support>https://forums.unraid.net/topic/195826-plugin-custom-smb-shares/</Support>
   <Project>https://github.com/cslemieux/unraid-custom-smb-shares</Project>
   <Icon>https://raw.githubusercontent.com/cslemieux/unraid-custom-smb-shares/main/icons/custom-smb-shares.png</Icon>
   <IconFA>share-alt</IconFA>
